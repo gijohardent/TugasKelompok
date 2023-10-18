@@ -5,7 +5,7 @@ export default function Home() {
     return (
       <>
         <div>
-            <p>ini Home</p>
+            <h1>SELAMAT DATANG</h1>
             <Search />
             <CardInfo />
         </div>
