@@ -1,8 +1,8 @@
 
-export default function Gen3() {
+export default function Gen3({Gen}) {
     return (
       <>
-        <ol>Gen 3</ol>
+        <ol>{Gen}</ol>
       </>
     )
   }

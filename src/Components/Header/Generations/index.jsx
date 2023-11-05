@@ -8,10 +8,14 @@ export default function Generations() {
       <>
         <div>
           <li>Generations</li>
-          <Gen1 />
-          <Gen2 />
-          <Gen3 />  
-          <Gen4 />         
+          <Gen1 
+          Gen="Generation 1"/>
+          <Gen2 
+          Gen="Generation 2"/>
+          <Gen3 
+          Gen="Generation 3"/>  
+          <Gen4 
+          Gen="Generation 4"/>         
         </div>
       </>
     )
